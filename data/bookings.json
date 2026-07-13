@@ -1,0 +1,24 @@
+[
+  {
+    "ticketCode": "LASU-BHJQX5",
+    "matchId": "m1",
+    "standId": "main",
+    "fullName": "Matthew Francis",
+    "email": "devmatt0106@gmail.com",
+    "phone": "08132675819",
+    "quantity": 1,
+    "totalAmount": 3500,
+    "createdAt": "2026-07-13T11:40:15.989Z"
+  },
+  {
+    "ticketCode": "LASU-XC7Z8Y",
+    "matchId": "m1",
+    "standId": "vip",
+    "fullName": "Matthew Francis",
+    "email": "devmatt0106@gmail.com",
+    "phone": "08132675819",
+    "quantity": 1,
+    "totalAmount": 8000,
+    "createdAt": "2026-07-13T11:50:13.050Z"
+  }
+]
