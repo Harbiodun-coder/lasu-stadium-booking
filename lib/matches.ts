@@ -1,3 +1,21 @@
+export type StandType = {
+  id: string;
+  name: string;
+  price: number;
+  capacity: number;
+};
+
+export type Match = {
+  id: string;
+  homeTeam: string;
+  awayTeam: string;
+  competition: string;
+  kickoff: string;
+  venue: string;
+  gate: string;
+  stands: StandType[];
+};
+
 export const matches: Match[] = [
   {
     id: "m1",
